@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 3.20)
-project(zipbrand)
+project(zipcomment)
 
-add_executable(zipbrand main.cpp)
+add_executable(zipcomment main.cpp)
